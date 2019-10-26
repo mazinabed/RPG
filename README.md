@@ -9,4 +9,6 @@ Business Context For companies that handle large amounts of sensitive data, weak
 Acceptance Criteria GIVEN that a user needs a new, secure password.
 WHEN prompted for password criteria
 
-THEN a password is generated
+THEN a password is generated.
+
+https://mazinabed.github.io/RPG/
